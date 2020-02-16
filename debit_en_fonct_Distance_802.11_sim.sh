@@ -1,5 +1,4 @@
 #!/bin/bash
-#exercice 1.b
 #Automatise les simulation de communications entres deux nodes utilisant des versions diff du 802.11
 simulation () {
  	if [ "$#" -ne 2 ]; then
